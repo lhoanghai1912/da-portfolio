@@ -1,0 +1,9 @@
+data/*
+!data/.gitkeep
+*.csv
+*.duckdb
+*.sqlite
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+.DS_Store
