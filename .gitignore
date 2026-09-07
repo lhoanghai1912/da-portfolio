@@ -1,6 +1,8 @@
 data/*
 !data/.gitkeep
 *.csv
+# ngoai le: tracker tien do ca nhan, khong phai file du lieu
+!tracker.csv
 *.duckdb
 *.sqlite
 .ipynb_checkpoints/
