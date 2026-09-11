@@ -1,6 +1,6 @@
 week,phase,topic,hours_planned,hours_actual,sql_problems_cumulative,artifact_link,checkpoint_status,blocker
 0,Setup,"Cai dat moi truong macOS (duckdb, dbeaver, uv, docker)",4,4,0,https://github.com/lhoanghai1912/da-portfolio,DONE,
-1,Foundation,"Tu duy du lieu + Google Sheets: VLOOKUP, SUMIFS, Pivot",15,,0,,,
+1,Foundation,"Tu duy du lieu + Google Sheets: VLOOKUP, SUMIFS, Pivot",15,,0,notes/w1-data-basics.md,IN_PROGRESS,
 2,Foundation,"Thong ke mo ta + chon chart dung loai",15,,0,,CHECKPOINT_1,
 3,SQL,"SELECT, WHERE, ORDER BY, LIMIT, kieu du lieu",15,,15,,,
 4,SQL,"GROUP BY, HAVING, aggregate functions",15,,35,,,
